@@ -2,6 +2,7 @@
 Python script for bulk messaging
 
 Consideraciones al utilizar la app:
+---------------------------------
 
 1) Si se equivocaron y quieren reiniciarlo, continúen todo con normalidad hasta que empiece a mandar mensajes. 
 Luego de eso, presionen la tecla shift por 5 segundos.
@@ -29,6 +30,7 @@ instrucciones será menor que el tiempo que perderán al no hacerlo correctament
 Hola chicos :burger
 ¿Cómo están? ¿Quieren una Frich Burguer?
 Porque yo sí quiero una!
+
 ---------------------------------
 
 
@@ -38,6 +40,7 @@ Observen cómo se vería el mensaje en WhatsApp Web:
 
 "Hola chicos (emoji de hamburguesa de WhatsApp) ¿Cómo están? ¿Quieren una Frich Burguer?"
 "Porque yo sí quiero una!"
+
 -----------------------------------------
 
 En el ejemplo, es importante notar que para incluir un emoji y continuar escribiendo en la misma línea o mensaje, deben presionar 
